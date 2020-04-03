@@ -1,5 +1,5 @@
 function breakOut(arr, chVal, stVal) {
-  for (lei i = 0, i < arr.length -1, i++) {
+  for (let i = 0, i < arr.length -1, i++) {
     if (arr[i] === stVal) {
       break
     }
