@@ -9,9 +9,9 @@ function breakOut(arr, chVal, stVal) {
 }
 
 function keepGoing(arr, chVal, skVal) {
-  
+
 }
 
 function findBy(arr, findFn) {
-  
+
 }
